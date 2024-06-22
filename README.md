@@ -26,5 +26,8 @@ I'm a Computational Enzyme Engineer passionate about developing and applying cut
 You will find some of my previous work at my old research groups [GitHub page](https://github.com/EngqvistLab)
 
 ## 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/engqvist1729)
+- [LinkedIn](https://www.linkedin.com/in/engqvist1729)
 - [Google Scholar](https://scholar.google.com/citations?user=ZTyba9cAAAAJ&hl=en)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=mengqvist&color=green)
