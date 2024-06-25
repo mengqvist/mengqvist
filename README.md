@@ -12,6 +12,7 @@ I'm a Computational Enzyme Engineer passionate about developing and applying cut
   - Deep Learning and Neural Networks (PyTorch)
   - Probabilistic Models (Pyro)
 - **Bioinformatics:**
+  - Rosetta
   - Sequence analysis
   - Next-generation sequencing data processing
 - **Data Analysis & Mining:**
