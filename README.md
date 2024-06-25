@@ -4,18 +4,26 @@
 I'm a Computational Enzyme Engineer passionate about developing and applying cutting-edge machine learning models for designing biotechnologically relevant enzymes. Currently, I'm leading a team focused on improving enzyme stability and activity using generative deep learning models and atomistic modeling at EnginZyme.
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** Python, R
+- **Programming Languages:**
+  - Python
+  - R
 - **Machine Learning / AI:** 
   - Classical Machine Learning (scikit-learn)
   - Deep Learning and Neural Networks (PyTorch)
   - Probabilistic Models (Pyro)
-- **Bioinformatics:** Sequence analysis, Next-generation sequencing data processing
-- **Data Analysis & Mining:** Web scraping (selenium), Large dataset integration
+- **Bioinformatics:**
+  - Sequence analysis
+  - Next-generation sequencing data processing
+- **Data Analysis & Mining:**
+  - Web scraping (selenium)
+  - Large dataset analysis and integration
 - **Biotechnology:** 
   - Enzyme engineering and Directed evolution
   - Protein thermostability prediction
   - Protein activity prediction
-- **Other:** Git, Computational pipeline development
+- **Other:**
+  - Git
+  - Computational pipeline development
 
 ## 🚀 Featured Projects
 - **Probabilistic Models:**
