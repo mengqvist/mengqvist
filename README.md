@@ -16,8 +16,8 @@ I'm a Computational Enzyme Engineer passionate about developing and applying cut
     - [Project](https://github.com/mengqvist/data_analysis_mbml/): Solving probabilistic problems from the "Model-Based Machine Learning" textbook with Pyro.
       
 - **Bioinformatics:**
-  - Rosetta
-  - Sequence analysis
+  - Structure analysis (AlphaFold2, Rosetta, APBS, PyMol)
+  - Sequence analysis (HHblits, CD-HIT, HMMER, BLAST, ESM2, etc.)
     - [Project](https://github.com/EngqvistLab/yeast_xylanase): CAZyme prediction in Ascomycetes yeast genomes
     - [Project](https://github.com/EngqvistLab/analyze_1.1.3.15): Experimental exploration of the enzyme class EC 1.1.3.15
 
