@@ -16,7 +16,7 @@ I'm a Computational Enzyme Engineer passionate about developing and applying cut
     - [Project](https://github.com/mengqvist/data_analysis_mbml/): Solving probabilistic problems from the "Model-Based Machine Learning" textbook with Pyro.
 
 - **Modeling / Optimization:**
-  - [Project](https://github.com/mengqvist/phonetic-distance): Modeling English words to find which sound similar/different including optimization of parameters.
+  - [Project](https://github.com/mengqvist/phonetic-distance): Modeling English words to find which sound similar/different, including optimization of parameters.
       
 - **Bioinformatics:**
   - Structure analysis (AlphaFold2, Rosetta, APBS, PyMol)
