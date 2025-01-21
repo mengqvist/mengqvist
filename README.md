@@ -15,21 +15,23 @@ I'm passionate about developing and applying data analysis techniques, machine l
     - [Project](https://github.com/mengqvist/data_analysis_sivia/): Solving probabilistic problems from the "Data Analysis - A Bayesian Tutorial" textbook with Pyro.
     - [Project](https://github.com/mengqvist/data_analysis_mbml/): Solving probabilistic problems from the "Model-Based Machine Learning" textbook with Pyro.
 
-- **Modeling / Optimization:**
-  - [Project](https://github.com/mengqvist/phonetic-distance): Modeling English words to find which sound similar/different, including optimization of parameters.
-      
-- **Bioinformatics:**
-  - Structure analysis (AlphaFold2, Rosetta, APBS, PyMol)
+- **Bioinformatics / Physics-Based Modeling:**
+  - Structure analysis (AlphaFold2, Rosetta, GROMACS, APBS, PyMol)
+    - [Project](https://github.com/mengqvist/AGADIR): Predicting alpha-helix stability through a combination of learned parameters and physics-based electrostatics (work in progress).
   - Sequence analysis (HHblits, CD-HIT, HMMER, BLAST, ESM2, etc.)
-    - [Project](https://github.com/EngqvistLab/yeast_xylanase): CAZyme prediction in Ascomycetes yeast genomes
-    - [Project](https://github.com/EngqvistLab/analyze_1.1.3.15): Experimental exploration of the enzyme class EC 1.1.3.15
+    - [Project](https://github.com/EngqvistLab/yeast_xylanase): CAZyme prediction in Ascomycetes yeast genomes.
+    - [Project](https://github.com/EngqvistLab/analyze_1.1.3.15): Experimental exploration of the enzyme class EC 1.1.3.15.
 
+- **Other Modeling / Optimization:**
+  - [Project](https://github.com/mengqvist/phonetic-distance): Modeling English words to find which sound similar/different, including optimization of parameters (work in progress).
+      
 - **Data Analysis & Mining:**
   - Web scraping (selenium)
   - Dataset analysis and integration (pandas)
 
 - **Other:**
   - Git
+  - Bash
   - Computational pipeline development
     
 ## 🚀 Selected Publications
