@@ -17,6 +17,7 @@ I'm passionate about developing and applying data analysis techniques, machine l
 
 - **Bioinformatics / Physics-Based Modeling:**
   - Structure analysis (AlphaFold2, Rosetta, GROMACS, APBS, PyMol)
+    - [Project](https://github.com/mengqvist/motono_md): Evaluating protein stability using MD using contact frequencies.
     - [Project](https://github.com/mengqvist/AGADIR): Predicting alpha-helix stability through a combination of learned parameters and physics-based electrostatics (work in progress).
   - Sequence analysis (HHblits, CD-HIT, HMMER, BLAST, ESM2, etc.)
     - [Project](https://github.com/EngqvistLab/yeast_xylanase): CAZyme prediction in Ascomycetes yeast genomes.
