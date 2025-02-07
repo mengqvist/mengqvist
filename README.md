@@ -1,7 +1,7 @@
 # Hi there, I'm Martin 👋
 
 ## About Me
-I'm passionate about developing and applying data analysis techniques, machine learning, and computational modeling to all types of data, though most of my professinal experience is from the field of biology.
+I'm passionate about developing and applying data analysis techniques, machine learning, and computational modeling to all types of data, though most of my professional experience is from the field of biology.
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:**
